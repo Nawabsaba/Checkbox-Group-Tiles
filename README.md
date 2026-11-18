@@ -5,8 +5,6 @@ Learn how to create attractive checkbox layouts with hover effects, custom style
 
 ![image alt](https://github.com/Nawabsaba/Checkbox-Group-Tiles/blob/68593515856548e2b0c56effbe08a68409737f2d/Youtube%20Video%20Thumbnail.png)
 
-
-![image alt](
 # HTML Program : -
       <!DOCTYPE html>
       <html lang="en">
